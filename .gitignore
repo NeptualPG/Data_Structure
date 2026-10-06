@@ -1,0 +1,15 @@
+# Rust build output
+# `target/` holds compiled artifacts and can be rebuilt with `cargo build`.
+/target
+target/
+
+# Cargo.lock is intentionally NOT ignored: this repo contains a binary
+# crate (api_flow), and the lock file belongs in version control so builds
+# are reproducible.
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
