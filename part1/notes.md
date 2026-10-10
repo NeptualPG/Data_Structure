@@ -81,3 +81,28 @@ the better way is put all the amounts into a scale the hig to low or low to hihg
 because you can know how many of your request are low of or high of, and also explain how the latency can affect a market with people agreement and money with amazon data,  some times there are times and latency
 that isn't feasible and the changes are slightly in comparation that can be a fish to swallowed
 you can unplug you responsability and just make agreements before the project with user acceptance
+
+
+-------------------------    
+rethink your architecture on every order of magnitude load increase
+-------------------------
+
+for the next session: 
+
+    cluster: a group of similar things or people close together
+
+    patch_patched: Repaired something by covering a damaged area of fixing a specific problem
+
+    whereas: ussed to show a contrast between two facts or situations 
+
+    rack: a frame or stand used to hold, store, or organize things
+
+    hang: so attach something so it is supported from above with it's lower part free
+
+    outages: Periods where a service or system is unavailable or stops working
+
+
+Learned fifth session:
+
+The text talk about the porcetiles those are the way you measure the answer time of your code with this you can where the data is affecting the permormance, to improve components with two ways 1 is the vertical scale or scale up increment the internal components of one specific pc and 2 is horizontal scale or  that is when you connect or do the data depends of more servers or computers cluster also we have systems where the server is constaly measuring the data flow and adapting its resours to hold the performance is known as flexible systems and patch the latency like a rack, the main problems that we cope into this how the code write and read whereas the complexity and when you inicialize a project the complexity or recursive that you append is just assumption hang and inestable, after that the book start maintainability that is communly used with outages codes.
+

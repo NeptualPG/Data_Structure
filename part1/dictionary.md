@@ -12,6 +12,8 @@ swallowed: moved food, dring, or something else from the mouth down the throat.
 
 unplugs
 
+-----------------
+
 cluster: a group of similar things or people close together
 
 patch_patched: Repaired something by covering a damaged area of fixing a specific problem
@@ -23,6 +25,8 @@ rack: a frame or stand used to hold, store, or organize things
 hang: so attach something so it is supported from above with it's lower part free
 
 outages: Periods where a service or system is unavailable or stops working
+
+-----------------
 
 decouple: to separed connected thing so they can work or change independently.
 
@@ -53,3 +57,13 @@ deemed: considered / regarded as / judged to be.
 yield: generates or give 
 
 prior: earlier / previous / before something else
+
+histograms: A histogram is a graph that shows the distribution of numerical data by grouping values into ranges called bins. Each bar represents how many values fall within a specific range.
+
+therefore: : as a result; for that reason.
+
+arraged: organize or pur in particular order
+
+fare: To perform or do in a situation.
+
+ongoing: continuing or still happening
