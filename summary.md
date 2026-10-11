@@ -18,4 +18,13 @@ user.
 Scalability means having strategies for keeping performance good, even when load
 increases. In order to discuss scalability, we first need ways of describing load and
 performance quantitatively. We briefly looked at Twitter’s home timelines as an
-example of describing load, and response time percentiles as a way of measuring per
+example of describing load, and response time percentiles as a way of measuring per1
+
+
+formance. In a scalable system, you can add processing capacity in order to remain
+reliable under high load.
+Maintainability has many facets, but in essence it’s about making life better for the
+engineering and operations teams who need to work with the system. Good abstrac‐
+tions can help reduce complexity and make the system easier to modify and adapt for
+new use cases. Good operability means having good visibility into the system’s health,
+and having effective ways of managing it.
