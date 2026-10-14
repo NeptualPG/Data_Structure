@@ -393,3 +393,5 @@ data structure; enables crash recovery.
 
 *Keep this file next to `CONCEPTS.md`; add entries as you replace in-memory
 pieces with real infrastructure.*
+
+// To read process

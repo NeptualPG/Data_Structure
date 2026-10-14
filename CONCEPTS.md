@@ -274,3 +274,6 @@ keeping the *architecture* (the arrows between boxes) exactly the same.
 *Generated from the `api_flow` teaching project — each component is intentionally
 minimal so the *shape* of the system stays visible. Replace one piece at a time
 with real infrastructure to see how the concepts survive contact with reality.*
+
+
+// To read process
